@@ -10,6 +10,6 @@ The key to my heart is through my belly. I have tried many types of foods, from 
 * sushi
 * _place holder for a new food I find in the future_
 ## A few of My Favorite Websites
-1. [Google](https://google.com) - Most times I start with Google to find recipes, especially if I want to find a "new" website I haven't explored before.
+1. [Google](https://google.com) - Most times I start with a Google search to find recipes, especially if I want to find a "new" website I haven't explored before.
 2. [Cooking with Rita](https://cookingwithria.com/) - Rita, the host of this website has all of the favorites when it comes to traditional Caribbean foods-and even snacks too. Rita breaks down the recipes, throws in a little history, and she even provides substitutions (for the traditional, hard to find goods).
-3. [NY Times Cooking](https://cooking.nytimes.com/) - I like The New York Times website for all types of recipes. This provides background on the recipes, drinks that pair well with the meals, and the writers describes the food so vividly-it makes you want to try the recipe immediately. 
+3. [NY Times Cooking](https://cooking.nytimes.com/) - I like The New York Times website for all types of recipes. This provides background on the recipes, drinks that pair well with the meals, and the writers describes the food so vividly-it makes you want to try the recipe immediately. Note: You may have to sign up for free account to view recipes. 
