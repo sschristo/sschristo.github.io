@@ -9,7 +9,7 @@ const path = require('path');
 // This part sets up the database
 const {Pool} = require('pg');
 // You may need to modify the password or database name in the following line:
-const connectionString = `postgres://postgres:CTI_110_WakeTech@localhost/Christopher_gradebook`;
+const connectionString = `postgres://postgres:CTI_110_WakeTech@localhost/Gradebook`;
 // The default password is CTI_110_WakeTech
 // The default database name is Gradebook
 const pool = new Pool({connectionString:connectionString})
@@ -23,7 +23,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 router.get('/', function(req, res){
     // It just returns a file to their browser 
     // from the same directory it's in, called gradebook.html
-    res.sendFile(path.join(__dirname, 'Christopher_gradebook.html'));
+    res.sendFile(path.join(__dirname, 'Gradebook.html'));
 });
 
 app.use("/", router);
